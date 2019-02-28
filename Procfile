@@ -1,1 +1,1 @@
-web: gunicorn catalogos_filmes.wsgi
+web: gunicorn catalogo_filmes.wsgi
